@@ -1,5 +1,6 @@
 # safari-marketplace
 
+CAMBIO
 [![CI](https://github.com/rcuello/safari-marketplace/actions/workflows/ci.yml/badge.svg)](https://github.com/rcuello/safari-marketplace/actions/workflows/ci.yml)
 
 Monorepo didáctico para enseñar **sistemas distribuidos** con una aplicación
